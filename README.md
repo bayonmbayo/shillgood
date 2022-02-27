@@ -1,7 +1,7 @@
 # Shillgood
 
 Automatic Shilling Program for Telegram  
-## (2022.01.25: Now **FREE** for all people!)  
+## (**FREE** for all people!)  
 If you like this tool, follow me and click **watch / fork / star** :)   
 
 # Introduction
